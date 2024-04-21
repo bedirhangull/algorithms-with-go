@@ -1,0 +1,14 @@
+
+
+
+
+Two Number Sum
+
+Q:  Write a function twoNumberSum that takes in an array of integers (nums) and an integer target sum (target). 
+The function should find two distinct integers in the array that sum up to the target sum and return them in an array in any order.
+If no such pair exists, the function should return an empty array.
+
+Example: 
+Input: nums = [3, 5, -4, 8, 11, 1, -1, 6], 
+Target = 10 
+Output: [-1, 11] (since -1 + 11 = 10)
