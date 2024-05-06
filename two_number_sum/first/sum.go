@@ -1,9 +1,7 @@
-package main
+package first
 
 func TwoNumberSum(array []int, target int) []int {
-
 	var firstNumber, secondNumber, sum int
-
 	for i := 0; i < len(array)-1; i++ {
 		firstNumber = array[i]
 		for j := i + 1; j < len(array); j++ {
@@ -14,6 +12,5 @@ func TwoNumberSum(array []int, target int) []int {
 			}
 		}
 	}
-
 	return []int{}
 }

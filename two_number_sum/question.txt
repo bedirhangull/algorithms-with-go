@@ -1,7 +1,3 @@
-
-
-
-
 Two Number Sum
 
 Q:  Write a function twoNumberSum that takes in an array of integers (nums) and an integer target sum (target). 
