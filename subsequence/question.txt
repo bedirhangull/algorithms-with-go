@@ -1,0 +1,14 @@
+
+
+
+
+Subsequence
+
+Q: Write an algorithm to find all increasing subsequences of a given array,
+ where the subsequences must follow specific rules. Each element in the subsequence should appear in the array only once.
+ Find all increasing subsequences of a given array and return the list of these subsequences.
+
+Example:
+    Input Array: [4, 6, 7, 8, 9, 1]
+    Input: Subsequence: [4, 9, 1]
+    Output Expected: True
